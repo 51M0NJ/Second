@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/51M0NJ/Second/blob/7364cef39fd64d72a9f6ebf82c39c96b8c42e9a9/input_upset.csv",
+	"name": "Pause_datsets",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	]
+}
